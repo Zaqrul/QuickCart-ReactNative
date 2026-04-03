@@ -2,7 +2,6 @@
 <h1 align="center">QuickCart</h1>
 
 
-
 <h5  align ="center"> 
 Full Stack open source mobile e-commerce application made with MongoDB, Express, React Native and Nodejs</h5>
 <br/>
@@ -14,7 +13,6 @@ Full Stack open source mobile e-commerce application made with MongoDB, Express,
       - [Frontend (Mobile) ](#frontend-mobile)
       - [Backend](#backend)
       - [Database](#database)
-  * [📸 Mockups](#mockups)
   * [License](#license)
 
 
@@ -165,12 +163,6 @@ This project was created using the following technologies.
 ####  Database 
 
  - [MongoDB ](https://www.npmjs.com/package/uuid) - It provides a free cloud service to store MongoDB collections.
- 
-
-## Mockups
-
-_App screenshots and demo video were removed from this repo. Add your own images under version control or host them where you prefer._
-
 
 
 
